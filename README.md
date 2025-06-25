@@ -4,11 +4,10 @@
 
 <h3>Hello, My name is Yeojin. 👋</h3>
 
-<h3>About Me</h3>
 <a href="mailto:oks04028@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://yeowoon.tistory.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-
-
+<br>
+<br>
 <h3>⚙️Technology Stack⚙️</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,18 +18,18 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) 
-
-
+<br>
+<br>
 <h3>My status</h3>
 
 ![Yeojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeojinhub&show_icons=true&theme=transparent)
-
-
+<br>
+<br>
 <h3>Team Project</h3>
 
 [![1차 프로젝트](https://github-readme-stats.vercel.app/api/pin/?username=yeojinhub&repo=sist1stPrj)](https://github.com/yeojinhub/sist1stPrj)
 
-[![2차 프로젝트](https://github-readme-stats.vercel.app/api/pin/?username=yeojinhub&repo=sistSndPjr)](https://github.com/yeojinhub/sistSndPjr)
+[![2차 프로젝트](https://github-readme-stats.vercel.app/api/pin/?username=yeojinhub&repo=sist2ndPrj)](https://github.com/yeojinhub/sist2ndPrj)
 
 [![3차 프로젝트](https://github-readme-stats.vercel.app/api/pin/?username=yeojinhub&repo=sist3rdPrj)](https://github.com/yeojinhub/sist3rdPrj)
 
