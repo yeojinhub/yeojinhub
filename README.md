@@ -25,12 +25,5 @@
 ![Yeojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeojinhub&show_icons=true&theme=transparent)
 <br>
 <br>
-<h3>Team Project</h3>
-
-[![1차 프로젝트](https://github-readme-stats.vercel.app/api/pin/?username=yeojinhub&repo=sist1stPrj)](https://github.com/yeojinhub/sist1stPrj)
-
-[![2차 프로젝트](https://github-readme-stats.vercel.app/api/pin/?username=yeojinhub&repo=sist2ndPrj)](https://github.com/yeojinhub/sist2ndPrj)
-
-[![3차 프로젝트](https://github-readme-stats.vercel.app/api/pin/?username=yeojinhub&repo=sist3rdPrj)](https://github.com/yeojinhub/sist3rdPrj)
 
 </div>
