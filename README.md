@@ -1,6 +1,6 @@
 <div align="left" style="width:100%;">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=150&section=header)
 
 <h3>Hello, My name is Yeojin. 👋</h3>
 
