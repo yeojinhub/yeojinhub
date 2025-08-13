@@ -49,6 +49,7 @@ Java, Spring, Oracle 기반의 웹 프로젝트를 통해 실무에 가까운 �
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### 🛠 Development Tools
 
@@ -62,6 +63,8 @@ Java, Spring, Oracle 기반의 웹 프로젝트를 통해 실무에 가까운 �
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![ERDCloud](https://img.shields.io/badge/ERDCloud-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHJlY3QgeD0iMiIgeT0iMTgiIHdpZHRoPSIxOCIgaGVpZ2h0PSIyOCIgcng9IjMiIHJ5PSIzIiBmaWxsPSJ3aGl0ZSIvPjxyZWN0IHg9IjQ0IiB5PSIxOCIgd2lkdGg9IjE4IiBoZWlnaHQ9IjI4IiByeD0iMyIgcnk9IjMiIGZpbGw9IndoaXRlIi8%2BPHBhdGggZD0iTTI0LDMyIEwzNCwyMiBMNDQsMzIgTDM0LDQyIFoiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <br>
 <br>
